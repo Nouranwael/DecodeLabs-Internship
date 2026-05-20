@@ -1,5 +1,5 @@
 # 🤖 Project 2: Data Classification Using AI
-**DecodeLabs Industrial Training Kit | Batch 2026**
+**DecodeLabs — Week 2 Internship Project**
 
 ---
 
